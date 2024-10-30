@@ -1,1 +1,33 @@
-# haha
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pecel Lele Sederhana</title>
+    <link rel="stylesheet" href="Daftar.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">PECEL LELE</h1>
+        <h2 class="subtitle">Sederhana</h2>   
+        <div class="animal-grid">
+            <div class="animal-card">
+                <img src="download (1).jpeg" alt="Ayam">
+                <p>15.000</p>
+            </div>
+            <div class="animal-card">
+                <img src="download (2).jpeg" alt="Nila">
+                <p>17.000</p>
+            </div>
+            <div class="animal-card">
+                <img src="download (3).jpeg" alt="Lele"">
+                <p>13.000</p>
+            </div>
+            <div class="animal-card">
+                <img src="download (4).jpeg" alt="Bebek">
+                <p>25.000</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
